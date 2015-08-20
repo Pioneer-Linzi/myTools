@@ -1,3 +1,0 @@
-jar 包功能说明：
-	1.VerifyCode_myeclipse.jar 是网页中的一次性的验证码，这是用在myeclipse 中的，需要配置web.xml 具体看Readme.md
-	2.EndcodingFilter.jar 是网页中全局的request 的编码格式的过滤器，可有效的对request 对像进行编码的转换 ios 985 -1 to utf-8
