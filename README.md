@@ -1,4 +1,5 @@
-jar °ü¹¦ÄÜËµÃ÷£º
-	1.VerifyCode_myeclipse.jar ÊÇÍøÒ³ÖĞµÄÒ»´ÎĞÔµÄÑéÖ¤Âë£¬ÕâÊÇÓÃÔÚmyeclipse ÖĞµÄ£¬ĞèÒªÅäÖÃweb.xml ¾ßÌå¿´Readme.md
-		verifycodeÒ²ÊÇÔÚÍøÒ³ÖĞµÄÒ»´ÎĞÔµÄÑéÖ¤Âë£¬²»¹ıÊÇÔÚeclipse ee ÖĞÊ¹ÓÃµÄ£¬²»ĞèÒªÅäÖÃweb.xml ¾ßÌå¿´Readme.md
-	2.EndcodingFilter.jar ÊÇÍøÒ³ÖĞÈ«¾ÖµÄrequest µÄ±àÂë¸ñÊ½µÄ¹ıÂËÆ÷£¬¿ÉÓĞĞ§µÄ¶Ôrequest ¶ÔÏñ½øĞĞ±àÂëµÄ×ª»» ios 985 -1 to utf-8
+jar åŒ…åŠŸèƒ½è¯´æ˜ï¼š
+	1.VerifyCode_myeclipse.jar æ˜¯ç½‘é¡µä¸­çš„ä¸€æ¬¡æ€§çš„éªŒè¯ç ï¼Œè¿™æ˜¯ç”¨åœ¨myeclipse ä¸­çš„ï¼Œéœ€è¦é…ç½®web.xml å…·ä½“çœ‹Readme.md
+	  verifycodeä¹Ÿæ˜¯åœ¨ç½‘é¡µä¸­çš„ä¸€æ¬¡æ€§çš„éªŒè¯ç ï¼Œä¸è¿‡æ˜¯åœ¨eclipse ee ä¸­ä½¿ç”¨çš„ï¼Œä¸éœ€è¦é…ç½®web.xml å…·ä½“çœ‹Readme.md
+	2.EndcodingFilter.jar æ˜¯ç½‘é¡µä¸­å…¨å±€çš„request çš„ç¼–ç æ ¼å¼çš„è¿‡æ»¤å™¨ï¼Œå¯æœ‰æ•ˆçš„å¯¹request å¯¹åƒè¿›è¡Œç¼–ç çš„è½¬æ¢ ios 985 -1 to utf-8
+	3.java mail æ˜¯è‡ªå®šä¹‰çš„java mail çš„å®ç°é‚®ä»¶çš„å‘é€ï¼Œå®ç°åŸºæœ¬çš„é‚®ä»¶å‘é€åŠŸèƒ½ï¼
